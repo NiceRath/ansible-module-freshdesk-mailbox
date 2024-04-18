@@ -1,0 +1,21 @@
+---
+
+namespace: 'niceshopsorg'
+name: 'freshdesk'
+version: 1.0.0
+readme: 'README.md'
+authors:
+  - 'Rene Rath <rene.rath@niceshops.com>'
+description: "Ansible Module to manage Freshdesk Mailboxes"
+license_file: 'LICENSE'
+tags:
+  - 'cloud'
+  - 'infrastructure'
+  - 'mail'
+  - 'mailing'
+dependencies: {}
+repository: 'https://github.com/NiceRath/ansible-module-freshdesk-mailbox'
+documentation: 'https://github.com/NiceRath/ansible-module-freshdesk-mailbox/README.md'
+homepage: 'https://www.niceshops.com'
+issues: 'https://github.com/NiceRath/ansible-module-freshdesk-mailbox/issues'
+build_ignore: []
